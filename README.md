@@ -102,13 +102,6 @@ CREATE TABLE IF NOT EXISTS login_data (
 
 ---
 
-## 📄 Raporlar ve Ekler
-
-- [BLM-0481 Siber Güvenliğe Giriş Dönem Projesi.docx](./BLM-0481%20Siber%20G%C3%BCvenli%C4%9Fe%20Giri%C5%9F%20D%C3%B6nem%20Projesi.docx)
-- [Siber_Güvenlik_Ara_Rapor.docx](./Siber_G%C3%BCvenlik_Ara_Rapor.docx)
-
----
-
 ## 📢 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. (Eğitim ve etik kullanım için uygundur.)
