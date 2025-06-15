@@ -34,14 +34,14 @@ Bu proje, sosyal mühendislik ve kimlik avı (phishing) saldırılarının tekni
 
 ## 📂 Proje Dosya Yapısı
 /proje
-├── index.html # Ana sayfa (Türkçe)
-├── index_en.html # Ana sayfa (İngilizce)
-├── giris_tr.php # Giriş sayfası (Türkçe)
-├── giris_en.php # Giriş sayfası (İngilizce)
-├── login.php # Giriş işlemlerini yöneten PHP dosyası
-├── create_table.sql # Veritabanı tablo oluşturma dosyası
-├── javascript.js # JS kütüphanesi (RequireJS)
-├── cookies.txt # Test amaçlı çerez dosyası
+├── index.html # Ana sayfa (Türkçe) ---
+├── index_en.html # Ana sayfa (İngilizce) ---
+├── giris_tr.php # Giriş sayfası (Türkçe) ---
+├── giris_en.php # Giriş sayfası (İngilizce) ---
+├── login.php # Giriş işlemlerini yöneten PHP dosyası ---
+├── create_table.sql # Veritabanı tablo oluşturma dosyası ---
+├── javascript.js # JS kütüphanesi (RequireJS) ---
+├── cookies.txt # Test amaçlı çerez dosyası ---
 ├── cookie.txt # Test amaçlı çerez dosyası
 
 
