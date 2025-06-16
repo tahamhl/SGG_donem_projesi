@@ -3,10 +3,10 @@ session_start();
 ob_start();
 
 // Veritabanı bağlantı bilgileri
-$servername = "localhost:3306";
-$username = "siber";
-$password = "Siber123687!";
-$dbname = "siber";
+$servername = "***";
+$username = "***";
+$password = "***";
+$dbname = "***";
 
 // Veritabanı bağlantısı
 $conn = new mysqli($servername, $username, $password, $dbname);
