@@ -102,11 +102,7 @@ CREATE TABLE IF NOT EXISTS login_data (
 
 ---
 
-## 📢 Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır. (Eğitim ve etik kullanım için uygundur.)
-
----
 
 ## 📬 İletişim
 
