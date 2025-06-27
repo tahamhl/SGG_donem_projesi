@@ -1,3 +1,9 @@
+
+![Uploading s.png…]()
+
+
+
+
 # BLM-0481 Siber Güvenliğe Giriş Dönem Projesi
 
 ## Sosyal Mühendislik ve Kimlik Avı (Phishing) Simülasyonu
